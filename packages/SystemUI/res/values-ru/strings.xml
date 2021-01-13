@@ -19,6 +19,11 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_system">Система</string>
+    <string name="global_action_restart_recovery">Рековери</string>
+    <string name="global_action_restart_bootloader">Загрузчик</string>
+	   <string name="global_action_restart_recovery_progress">Перезагрузка в рековери...</string>
+   	<string name="global_action_restart_bootloader_progress">Перезагрузка в загрузчик...</string>
     <string name="app_label" msgid="4811759950673118541">"Интерфейс системы"</string>
     <string name="status_bar_clear_all_button" msgid="2491321682873657397">"Очистить"</string>
     <string name="status_bar_no_notifications_title" msgid="7812479124981107507">"Нет уведомлений"</string>
